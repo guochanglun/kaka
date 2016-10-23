@@ -71,7 +71,7 @@ Action用来配置请求方法
  
 
 - Controller
-    - Controller类必须有一个午餐构造函数
+    - Controller类必须有一个无参构造函数
  
 
 - Service
